@@ -4,7 +4,7 @@ from sqlalchemy.orm import scoped_session,sessionmaker
 
 from Conexion import conexion
 from datetime import datetime
-
+#modelos 
 from models.Bibliotecario import Bibliotecario
 from models.Cliente import Cliente
 from models.Libro import Libro
